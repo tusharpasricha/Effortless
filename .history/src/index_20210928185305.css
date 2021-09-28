@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color:#ffffff;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  .bar{
+    position: fixed;
+    padding: 20px;
+    height: 20px;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    display: flex;
+    float: right;
+    align-items: center;
+    width: 100%;
+  }
+  li{
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+  ul :hover{
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .bgentry{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 450px; 
+    display: flex;
+    flex-direction: row;
+  }
+  .title{
+    display: flex;
+    align-items: center;
+    padding: auto;
+    text-align: center;
+    width: 50%;
+    background-color:#000428;
+    color: rgba(255, 255, 255, 0.877);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .header{
+    margin-left: 130px;
+  }
+  h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+  .add{
+    align-items: center;
+    background-image: linear-gradient(to right, #000428,#004e92);  
+
+
+    /* background: linear-gradient(to right ,#603813,#b29f94); */
+    width: 50%;
+    font-weight: bold;
+  }
+  .heading{
+    color: rgba(0, 0, 0, 0.911);
+    text-align: center;
+    margin: 0%;
+  }
+  .inputbox{
+    border-radius: 20px;
+    padding: 30px;
+    margin: 100px;
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.938);
+    font-size: 25px;
+    font-weight:50px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+  }
+  button{
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: #004e92;
+    border-radius: 5px;
+  }
+  button :hover{
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.931);
+    margin-top: 22px;
+  }
+  input{
+    height: 25px;
+  }
+  
+  div .name{
+    padding: 10px;
+    color: #022444;;
+    text-align: center;
+    font-size: 30px;
+  }
+  div .balance{
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    font-size: 25px;
+    color: #022444;
+    background-color: rgba(153, 128, 128, 0.883);
+  }
+  div .card:hover{
+    background-color: #022444;
+    ;
+  }
+  .footor{
+    color: aliceblue;
+    width : 100%;
+    height : 50px;
+    background-color: #022444;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+
+  }
+  .box{
+    background-image: linear-gradient(to right, #e0eafc,#cfdef3);  
+    height: 600px;
+    overflow-y: scroll;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    border:solid 8px white;
+   }
+  .box div{
+    color: rgb(35, 36, 36);
+    margin :20px;
+    background-color: #ffffff;
+    padding-top: 0px;
+    padding-left: 4px;
+    padding-right: 0px;
+    width: 60%;
+    border-radius: 5%;
+    cursor: pointer;
+  }
+ 
+  

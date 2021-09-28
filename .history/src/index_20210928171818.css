@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color:#ffffff;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  .bar{
+    padding: 20px;
+    height: 20px;
+    color: white;
+    background-color: #022444;
+  }
+  .bgentry{
+    padding: 0;
+    margin: 0;
+    background-color: #051723;
+    width: 100%;
+    height: 500px; 
+  }
+  .heading{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+      margin: 0%;
+   font-family: 'Poiret One', cursive;
+
+  }
+  .inputbox{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight:100px;
+    display: flex;
+    flex-direction: column;
+  }
+  .add{
+    margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 1000px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgba(255, 255, 255, 0.979);
+    width: 30%;
+    border-radius: 20px;
+   font-family: 'Poiret One', cursive;
+   font-weight: bold;
+  }
+  div .name{
+    padding: 10px;
+    color: white;
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+  }
+  div .balance{
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    font-size: 25px;
+    color: #022444;
+    background-color: rgba(255, 255, 255, 0.883);
+  }
+  div .card:hover{
+    background-color: #eeeeee
+    ;
+  }
+  .footor{
+    color: aliceblue;
+    width : 100%;
+    height : 50px;
+    background-color: #022444;
+
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+
+  }
+  .box{
+    width: 100%;
+    height: 55vh;
+    overflow-y: scroll;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    border:solid 8px white;
+      }
+  .box div{
+    color: azure;
+    margin :20px;
+    background-color: #aaaaaa
+    ;
+    padding-top: 0px;
+    padding-left: 4px;
+    padding-right: 0px;
+    width: 60%;
+    border-radius: 5%;
+    cursor: pointer;
+
+  }
+ 
+  
