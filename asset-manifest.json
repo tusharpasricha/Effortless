@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d48c2f72.chunk.css",
-    "main.js": "/static/js/main.4e50834e.chunk.js",
-    "main.js.map": "/static/js/main.4e50834e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6d056d0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6d056d0.js.map",
-    "static/js/2.d4d1fa65.chunk.js": "/static/js/2.d4d1fa65.chunk.js",
-    "static/js/2.d4d1fa65.chunk.js.map": "/static/js/2.d4d1fa65.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d48c2f72.chunk.css.map": "/static/css/main.d48c2f72.chunk.css.map",
-    "static/js/2.d4d1fa65.chunk.js.LICENSE.txt": "/static/js/2.d4d1fa65.chunk.js.LICENSE.txt"
+    "main.css": "/Effortless/static/css/main.d48c2f72.chunk.css",
+    "main.js": "/Effortless/static/js/main.4e50834e.chunk.js",
+    "main.js.map": "/Effortless/static/js/main.4e50834e.chunk.js.map",
+    "runtime-main.js": "/Effortless/static/js/runtime-main.4921f15c.js",
+    "runtime-main.js.map": "/Effortless/static/js/runtime-main.4921f15c.js.map",
+    "static/js/2.d4d1fa65.chunk.js": "/Effortless/static/js/2.d4d1fa65.chunk.js",
+    "static/js/2.d4d1fa65.chunk.js.map": "/Effortless/static/js/2.d4d1fa65.chunk.js.map",
+    "index.html": "/Effortless/index.html",
+    "static/css/main.d48c2f72.chunk.css.map": "/Effortless/static/css/main.d48c2f72.chunk.css.map",
+    "static/js/2.d4d1fa65.chunk.js.LICENSE.txt": "/Effortless/static/js/2.d4d1fa65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6d056d0.js",
+    "static/js/runtime-main.4921f15c.js",
     "static/js/2.d4d1fa65.chunk.js",
     "static/css/main.d48c2f72.chunk.css",
     "static/js/main.4e50834e.chunk.js"
